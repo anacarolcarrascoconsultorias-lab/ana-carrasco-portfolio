@@ -55,7 +55,7 @@ Hands-on SQL work covering:
 
 Focused on writing **clean, readable, and structured SQL** suitable for analytics and reporting.
 
-🔗 SQL repositories & exercises linked here.
+🔗 SQL repositories & exercises [linked here](https://github.com/anacarolcarrascoconsultorias-lab/IBM-Data-Science-Assignments).
 
 ---
 

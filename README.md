@@ -13,8 +13,13 @@ It brings together end-to-end projects, dashboards, SQL practice, Python analysi
 These projects simulate real business problems and show my full analytical workflow — from raw data to decision support.
 
 🔗 Explore:  
-- https://github.com/your-username/project-name-1  
-- https://github.com/your-username/project-name-2  
+- [MarketSprint Financial Analysis](https://github.com/anacarolcarrascoconsultorias-lab/project-MarketSprint-Financial-Analysis)
+- [WebScraping Job Postings](https://github.com/anacarolcarrascoconsultorias-lab/project-web-scraping-job-postings)
+- [Social Media Analysis](https://github.com/anacarolcarrascoconsultorias-lab/project-social-media-analysis)
+- [Stack Overflow Developer Survery](https://github.com/anacarolcarrascoconsultorias-lab/project-stack-overflow-developer-survey)
+- [Walmart Sales Forecast](https://github.com/anacarolcarrascoconsultorias-lab/project_Sales_Forecast_Walmart)
+- [Model Car Dabatase (MySQL Workbench)](https://github.com/anacarolcarrascoconsultorias-lab/project-model-car-db-mysql-workbench)
+- [Telecom API Automation](https://github.com/anacarolcarrascoconsultorias-lab/project-telecom-api-automation)  
 
 ---
 
@@ -28,8 +33,8 @@ These projects simulate real business problems and show my full analytical workf
 Focused on transforming metrics into **stories leaders can act on**.
 
 🔗 Examples:  
-- KPI Dashboard (Amazon QuickSight)  
-- Operational & onboarding analytics  
+- [Sales Perfomance](https://github.com/anacarolcarrascoconsultorias-lab/dashboard-excel-sales-performance)
+- [Global Sales Perfomance](https://github.com/anacarolcarrascoconsultorias-lab/dashboard-excel-sales-performance-global)
 
 ---
 
@@ -55,7 +60,6 @@ Hands-on SQL work covering:
 
 Focused on writing **clean, readable, and structured SQL** suitable for analytics and reporting.
 
-🔗 SQL repositories & exercises [linked here](https://github.com/anacarolcarrascoconsultorias-lab/IBM-Data-Science-Assignments).
 
 ---
 
@@ -72,25 +76,15 @@ This section reflects my background in:
 
 ---
 
-## 🖼️ Portfolio Gallery
-A **visual highlight reel** of selected dashboards, charts, workflows, and project snapshots.
-
-Designed to give a quick visual understanding of:
-- Analytical thinking
-- Dashboard design
-- Data storytelling
-
-🔗 Screenshots and previews.
-
----
-
 ## 🎓 Learning Journey
 Certifications, courses, progress tracking, and structured learning paths.
 
 This is a transparent timeline of how I’ve built and expanded my analytical skill set over time.
 
 🔗 Courses, certificates, and reflections.
-
+- SQL repositories & exercises [linked here](https://github.com/anacarolcarrascoconsultorias-lab/IBM-Data-Science-Assignments).
+- [Guided Lab - GenAI](https://github.com/anacarolcarrascoconsultorias-lab/lab-Guided-Practice-Project-GenAI)
+- 
 ---
 
 ## 🧪 Hands-On Labs
@@ -113,6 +107,6 @@ Process Documentation • Operational Metrics • Decision Support
 ---
 
 ## 🔗 Links
-- **LinkedIn:** https://linkedin.com/in/ana-carolina-carrasco 
+- **LinkedIn:** [Ana Carolina Carrasco](https://www.linkedin.com/in/ana-carolina-carrasco/)
 - **Notion Portfolio:** [Ana Carolina Carrasco](https://cat-persimmon-b6f.notion.site/Ana-Carrasco-Data-Analyst-Portfolio-1e670936f3c28069951af964ba655fad?source=copy_link)
 - **GitHub Projects:** Explore pinned repositories on my profile

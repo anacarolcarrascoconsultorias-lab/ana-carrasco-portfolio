@@ -36,6 +36,7 @@ Focused on transforming metrics into **stories leaders can act on**.
 - [Sales Perfomance](https://github.com/anacarolcarrascoconsultorias-lab/dashboard-excel-sales-performance)
 - [Global Sales Perfomance](https://github.com/anacarolcarrascoconsultorias-lab/dashboard-excel-sales-performance-global)
 - [Ecommerce Performance (A)](https://github.com/anacarolcarrascoconsultorias-lab/ecommerce_performance_a)
+- [Ecommerce Performance (B)](https://github.com/anacarolcarrascoconsultorias-lab/ecommerce_performance_b)
 
 ---
 
